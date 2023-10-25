@@ -48,54 +48,108 @@ $type-size-8                : 0.625em;  // ~10px
    ========================================================================== */
 
 $gray                       : #7a8288;
-$dark-gray                  : mix(#000, $gray, 40%);
-$darker-gray                : mix(#000, $gray, 60%);
-$light-gray                 : mix(#fff, $gray, 50%);
-$lighter-gray               : mix(#fff, $gray, 90%);
+$dark-gray                  : #3c3836; // Darkened gray
+$darker-gray                : #282828; // Darker gray
+$light-gray                 : #a89984; // Lightened gray
+$lighter-gray               : #ebdbb2; // Lighter gray
+$dark-blue                  : #076678; // Dark blue
 
-$body-color                 : #fff;
-$background-color           : #fff;
-$code-background-color      : #fafafa;
-$code-background-color-dark : $light-gray;
-$text-color                 : $dark-gray;
-$border-color               : $lighter-gray;
+$body-color                 : #d8c3a8; // Beige
+// $background-color           : #282828; // Dark background
+$background-color           : #1d2021; // Very dark background
+$code-background-color      : #3c3836; // Darkened code background
+$code-background-color-dark : #1d2021; // Lightened code background for dark theme
+$text-color                 : #fbf1c7; // Lightened text color
+$border-color               : #3c3836; // Darkened border color
 
-$primary-color              : #7a8288;
-$success-color              : #62c462;
-$warning-color              : #f89406;
-$danger-color               : #ee5f5b;
-$info-color                 : #52adc8;
+$primary-color              : #83a598; // Aqua
+$success-color              : #b8bb26; // Yellow-green
+$warning-color              : #fe8019; // Dark orange
+$danger-color               : #cc241d; // Red
+$info-color                 : #d3869b; // Light magenta
 
 /* brands */
-$behance-color              : #1769FF;
-$dribbble-color             : #ea4c89;
-$facebook-color             : #3b5998;
-$flickr-color               : #ff0084;
-$foursquare-color           : #0072b1;
-$github-color               : #171516;
-$google-plus-color          : #dd4b39;
-$instagram-color            : #517fa4;
-$lastfm-color               : #d51007;
-$linkedin-color             : #007bb6;
-$pinterest-color            : #cb2027;
-$rss-color                  : #fa9b39;
-$soundcloud-color           : #ff3300;
-$stackoverflow-color        : #fe7a15;
-$tumblr-color               : #32506d;
-$twitter-color              : #55acee;
-$vimeo-color                : #1ab7ea;
-$vine-color                 : #00bf8f;
-$youtube-color              : #bb0000;
-$xing-color                 : #006567;
-
+$behance-color              : #458588; // Blue
+$dribbble-color             : #b16286; // Purple
+$facebook-color             : #83a598; // Aqua
+$flickr-color               : #d3869b; // Light magenta
+$foursquare-color           : #8ec07c; // Light green
+$github-color               : #d4a15a; // Yellow
+$google-plus-color          : #e78a4e; // Orange
+$instagram-color            : #83a598; // Aqua
+$lastfm-color               : #fb4934; // Dark red
+$linkedin-color             : #83a598; // Aqua
+$pinterest-color            : #b16286; // Purple
+$rss-color                  : #fe8019; // Dark orange
+$soundcloud-color           : #fb4934; // Dark red
+$stackoverflow-color        : #fabd2f; // Yellow
+$tumblr-color               : #8ec07c; // Light green
+$twitter-color              : #83a598; // Aqua
+$vimeo-color                : #d3869b; // Light magenta
+$vine-color                 : #8ec07c; // Light green
+$youtube-color              : #cc241d; // Red
+$xing-color                 : #d4a15a; // Yellow
 
 /* links */
-$link-color                 : $info-color;
-$link-color-hover           : mix(#000, $link-color, 25%);
-$link-color-visited         : mix(#fff, $link-color, 25%);
-$masthead-link-color        : $primary-color;
-$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
+$link-color                 : #83a598; // Aqua
+$link-color-hover           : #458588; // Darkened link color for hover
+$link-color-visited         : #b16286; // Darkened link color for visited links
+$masthead-link-color        : #83a598; // Aqua
+$masthead-link-color-hover  : #458588; // Darkened masthead link color for hover
 
+
+// /*
+//    Colors
+//    ========================================================================== */
+//
+// $gray                       : #7a8288;
+// $dark-gray                  : mix(#000, $gray, 40%);
+// $darker-gray                : mix(#000, $gray, 60%);
+// $light-gray                 : mix(#fff, $gray, 50%);
+// $lighter-gray               : mix(#fff, $gray, 90%);
+//
+// $body-color                 : #fff;
+// $background-color           : #fff;
+// $code-background-color      : #fafafa;
+// $code-background-color-dark : $light-gray;
+// $text-color                 : $dark-gray;
+// $border-color               : $lighter-gray;
+//
+// $primary-color              : #7a8288;
+// $success-color              : #62c462;
+// $warning-color              : #f89406;
+// $danger-color               : #ee5f5b;
+// $info-color                 : #52adc8;
+//
+// /* brands */
+// $behance-color              : #1769FF;
+// $dribbble-color             : #ea4c89;
+// $facebook-color             : #3b5998;
+// $flickr-color               : #ff0084;
+// $foursquare-color           : #0072b1;
+// $github-color               : #171516;
+// $google-plus-color          : #dd4b39;
+// $instagram-color            : #517fa4;
+// $lastfm-color               : #d51007;
+// $linkedin-color             : #007bb6;
+// $pinterest-color            : #cb2027;
+// $rss-color                  : #fa9b39;
+// $soundcloud-color           : #ff3300;
+// $stackoverflow-color        : #fe7a15;
+// $tumblr-color               : #32506d;
+// $twitter-color              : #55acee;
+// $vimeo-color                : #1ab7ea;
+// $vine-color                 : #00bf8f;
+// $youtube-color              : #bb0000;
+// $xing-color                 : #006567;
+//
+//
+// /* links */
+// $link-color                 : $info-color;
+// $link-color-hover           : mix(#000, $link-color, 25%);
+// $link-color-visited         : mix(#fff, $link-color, 25%);
+// $masthead-link-color        : $primary-color;
+// $masthead-link-color-hover  : mix(#000, $primary-color, 25%);
 
 /*
    Breakpoints

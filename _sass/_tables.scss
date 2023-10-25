@@ -6,13 +6,9 @@ table {
   margin-bottom: 1em;
   width: 100%;
   font-family: $global-font-family;
-  font-size: $type-size-6;
-  border-collapse: collapse;
-  border: 1px solid $light-gray;
-
-  & + table {
-    margin-top: 1em;
-  }
+  font-size: 0.9em;
+  border-collapse: separate; /* Change border-collapse value */
+  border-spacing: 0 1px; /* Add border-spacing property */
 }
 
 thead {
@@ -34,5 +30,45 @@ td {
 }
 
 tr, td, th {
+  vertical-align: middle;
+}
+
+table.twoColumnTable {
+  margin-bottom: 1em;
+  width: 100%;
+  font-family: $global-font-family;
+  font-size: 0.9em;
+  border-collapse: separate;
+  border-spacing: 0 1px;
+}
+
+.twoColumnTable thead {
+  background-color: $lighter-gray;
+  border-bottom: 1px solid $light-gray;
+}
+
+.twoColumnTable th.left-column {
+  width: 20%;
+  padding: 0.5em;
+  font-weight: bold;
+  text-align: left;
+  border-right: 0px solid $light-gray;
+}
+
+.twoColumnTable th.right-column {
+  width: 80%;
+  padding: 0.5em;
+  font-weight: bold;
+  text-align: left;
+  border-right: 0px solid $light-gray;
+}
+
+.twoColumnTable td {
+  padding: 0.5em;
+  border-bottom: 1px solid $light-gray;
+  border-right: 0px solid $light-gray;
+}
+
+.twoColumnTable tr, .twoColumnTable td, .twoColumnTable th {
   vertical-align: middle;
 }

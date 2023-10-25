@@ -151,3 +151,31 @@
     font-size: $type-size-7;
   }
 }
+
+.conf_button {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2px 6px;
+    color: $text-color;
+    background-color: $danger-color;
+    font-size: 0.75em;
+    border: none;
+    width: 50px;
+    cursor: not-allowed;
+    font-family: $monospace;
+}
+
+
+.paper_button {
+    display: inline-flex;
+    justify-content: center;
+    padding: 2px 6px;
+    color: $text-color;
+    background-color: $behance-color;
+    font-size: 0.75em;
+    border: none;
+    width: 50px;
+    cursor: not-allowed;
+    font-family: $monospace;
+}

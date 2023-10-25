@@ -72,24 +72,26 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 36px;
+  // width: 36px;
   // set width only, for non-square avatars
   // height: 36px;
 
-  @include breakpoint($large) {
-    display: block;
-    width: auto;
-    height: auto;
+  // @include breakpoint($large) {
+  //  display: block;
+  //  width: auto;
+  //  height: auto;
   }
 
   img {
-    max-width: 175px;
-    border-radius: 50%;
+    // max-width: 175px;
+    box-shadow: 6px 6px 30px $code-background-color-dark; /* Adjust values as needed */
 
-    @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
-    }
+    // border-radius: 50%;
+
+    // @include breakpoint($large) {
+    //  padding: 5px;
+    //  border: 1px solid $border-color;
+    // }
   }
 }
 
@@ -165,11 +167,11 @@
   margin-top: 15px;
   padding: 10px;
   list-style-type: none;
-  border: 1px solid $border-color;
-  border-radius: $border-radius;
-  background: #fff;
+  border: 1px solid $dark-gray;
+  border-radius: 4px;
+  background: $dark-gray;
   z-index: -1;
-  box-shadow: 0 0 10px rgba(#000, 0.25);
+  box-shadow: 0 0 10px rgba(0,0,0,0.25);
   cursor: default;
 
   @include breakpoint($large) {
