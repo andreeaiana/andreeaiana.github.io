@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Andreea Iana"
 title_separator          : "-"
 name                     : &name "Andreea Iana"
-description              : &description "PhD Student @ DWS, University of Mannheim | Recommender Systems & Algorithmic Bias"
+description              : &description "PhD Student @ DWS Group, University of Mannheim | Recommender Systems & Algorithmic Bias"
 url                      : https://andreeaiana.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "andreeaiana/andreeaiana.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Andreea Iana"
   avatar           : "profile.jpg"
-  bio              : "PhD Student @ DWS, University of Mannheim | Recommender Systems & Algorithmic Bias"
+  bio              : "PhD Student @ DWS Group, University of Mannheim | Recommender Systems & Algorithmic Bias"
   location         : "Germany"
   employer         :
   pubmed           : 
