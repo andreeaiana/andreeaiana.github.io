@@ -33,5 +33,5 @@ redirect_from:
   * Developing a Python Library for News Recommenders (Master, Spring 2022)
 * ### Thesis Co-Supervisor
   * Diversified Scientific Research Recommendation (Master, Fall 2023)
-  * A Comparative Analysis of Negative Sampling Techniques for News Recommenders(Bachelor, Fall 2023)
+  * A Comparative Analysis of Negative Sampling Techniques for News Recommenders (Bachelor, Fall 2023)
 
