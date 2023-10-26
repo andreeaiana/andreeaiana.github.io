@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 ## Professional Activities
-
 * ### Reviewer
   * Conference: ESWC 2021, ESWC 2022, ESWC 2024
   * Workshop: PoliticalNLP 2022, DL4KG 2022, DL4KG 2023, BeyondFacts’23
@@ -24,6 +23,7 @@ author_profile: true
   * [ReNewRS](https://www.uni-mannheim.de/dws/research/projects/renewrs/)
 
 ## Teaching
+-----------
 * ### Tutorials
   * [Data Mining I](https://www.uni-mannheim.de/dws/teaching/course-details/courses-for-master-candidates/ie-500-data-mining/) (Master, Fall 2023)
 * ### Team Projects
