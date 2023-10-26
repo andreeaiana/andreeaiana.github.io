@@ -97,7 +97,7 @@ author_profile: true
     <tr> 
         <td><a href="https://ceur-ws.org/Vol-2699/paper05.pdf/"><b>More is not Always Better: The Negative Impact of A-box Materialization on RDF2vec Knowledge Graph Embeddings</b></a><br>
         <u>Andreea Iana</u>, Heiko Paulheim.<br>
-        <i>SProceedings of the CIKM 2020 Workshops co-located with 29th ACM International Conference on Information and Knowledge Management (CIKM 2020).</i><br>
+        <i>Proceedings of the CIKM 2020 Workshops co-located with 29th ACM International Conference on Information and Knowledge Management (CIKM 2020).</i><br>
         <div class="paper_button"><b>WORKSHOP</b></div>&nbsp;<div class="conf_button"><b>CIKM</b></div>
         </td>
     </tr>
