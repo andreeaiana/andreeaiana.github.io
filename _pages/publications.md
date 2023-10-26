@@ -43,21 +43,21 @@ author_profile: true
         <td><a href="https://journals.sagepub.com/doi/pdf/10.1177/08944393221149290/"><b>Divided by the Algorithm? The (Limited) Effects of Content-and Sentiment-Based News Recommendation on Affective, Ideological, and Perceived Polarization</b></a><br>
         atharina Ludwig, Alexander Grote, <u>Andreea Iana</u>, Mehwish Alam, Heiko Paulheim, Harald Sack, Christof Weinhardt, Philipp Müller.<br>
         <i>Social Science Computer Review (2023)</i><br>
-        <div class="conf_button"><b>Social Science Computer Review</b></div>&nbsp;<div class="paper_button"><b>JOURNAL ARTICLE</b></div>
+        <div class="article_button"><b>Social Science Computer Review</b></div>&nbsp;<div class="paper_button"><b>ARTICLE</b></div>
         </td>
     </tr>
     <tr> 
         <td><a href="https://ebooks.iospress.nl/volumearticle/63713/"><b>Semantic Web Machine Learning Systems: An Analysis of System Patterns</b></a><br>
         Anna Breit, Laura Waltersdorfer, Fajar J. Ekaputr, Marta Sabou, Andreas Ekelhart, <u>Andreea Iana</u>, Heiko Paulheim, Jan Portisch, Artem Revenko, Annette ten Teije, and Frank van Harmelen.<br>
         <i>Compendium of Neurosymbolic Artificial Intelligence, pp. 77-99. IOS Press, 2023.</i><br>
-        <div class="conf_button"><b>Frontiers in Artificial Intelligence and Applications</b></div>&nbsp;<div class="paper_button"><b>BOOK CHAPTER</b></div>
+        <div class="book_button"><b>Frontiers in Artificial Intelligence and Applications</b></div>&nbsp;<div class="paper_button"><b>CHAPTER</b></div>
         </td>
     </tr>
     <tr> 
         <td><a href="https://dl.acm.org/doi/pdf/10.1145/3586163/"><b>Combining Machine Learning and Semantic Web: A Systematic Mapping Study</b></a><br>
         Anna Breit, Laura Waltersdorfer, Fajar J. Ekaputr, Marta Sabou, Andreas Ekelhart, <u>Andreea Iana</u>, Heiko Paulheim, Jan Portisch, Artem Revenko, Annette ten Teije, and Frank van Harmelen.<br>
         <i>ACM Computing Surveys (2023)</i><br>
-        <div class="conf_button"><b>ACM Computing Surveys</b></div>&nbsp;<div class="paper_button"><b>JOURNAL ARTICLE</b></div>
+        <div class="article_button"><b>ACM Computing Surveys</b></div>&nbsp;<div class="paper_button"><b>ARTICLE</b></div>
         </td>
     </tr>
 </table>
@@ -76,7 +76,7 @@ author_profile: true
         <td><a href="https://content.iospress.com/articles/semantic-web/sw222991/"><b>A Survey on Knowledge-aware News Recommender Systems</b></a><br>
         <u>Andreea Iana</u>, Mehwish Alam, Heiko Paulheim.<br>
         <i>Semantic Web, (Preprint), 1-62. 2022.</i><br>
-        <div class="conf_button"><b>Semantic Web</b></div>&nbsp;<div class="paper_button"><b>JOURNAL ARTICLE</b></div>
+        <div class="article_button"><b>Semantic Web</b></div>&nbsp;<div class="paper_button"><b>ARTICLE</b></div>
         </td>
     </tr>
 </table>

@@ -17,16 +17,16 @@ I am a third-year PhD student at the [University of Mannheim](https://www.uni-ma
 <table class="twoColumnTable">
     <tbody>
         <tr>
-            <td class="left-column">Apr, 2023</td>
-            <td class="right-column">Our paper "Simplifying Content-Based Neural News Recommendation: On User Modeling and Training Objectives" was accepted to SIGIR 2023!</td>
+            <td class="left-column">Oct, 2023</td>
+            <td class="right-column">Our paper "NewsRecLib: A PyTorch-Lightning Library for Neural News Recommendation" was accepted to EMNLP 2023, Systems Demonstration!</td>
         </tr>
         <tr>
             <td class="left-column">Sep, 2023</td>
             <td class="right-column">Our paper "NeMig - A Bilingual News Collection and Knowledge Graph about Migration" was accepted to INRA'23, in conjunction with RecSys 2023!</td>
         </tr>
         <tr>
-            <td class="left-column">Oct, 2023</td>
-            <td class="right-column">Our paper "NewsRecLib: A PyTorch-Lightning Library for Neural News Recommendation" was accepted to EMNLP 2023, Systems Demonstration!</td>
+            <td class="left-column">Apr, 2023</td>
+            <td class="right-column">Our paper "Simplifying Content-Based Neural News Recommendation: On User Modeling and Training Objectives" was accepted to SIGIR 2023!</td>
         </tr>
     </tbody>
 </table>
