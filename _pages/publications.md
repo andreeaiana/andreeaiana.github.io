@@ -62,13 +62,14 @@ author_profile: true
 </table>
 
 ## 2022
+-------
 
 <table>
     <tr> 
         <td><a href="https://dl.acm.org/doi/pdf/10.1145/3487553.3524674/"><b>Towards Analyzing the Bias of News Recommender Systems Using Sentiment and Stance Detection</b></a><br>
         Alam Mehwish, <u>Andreea Iana</u>, Alexander Grote, Katharina Ludwig, Philipp Müller, Heiko Paulheim.<br>
         <i>Companion Proceedings of the Web Conference 2022, pp. 448-457. 2022.</i><br>
-        <div class="paper_button"><b>WORKSHOP</b></div>&nbsp;<div class="conf_button"><b>The Web Conference</b></div>
+        <div class="paper_button"><b>WORKSHOP</b></div>&nbsp;<div class="conf_button"><b>TheWebConf</b></div>
         </td>
     </tr>
     <tr> 
@@ -81,6 +82,7 @@ author_profile: true
 </table>
 
 ## 2021
+-------
 
 <table>
     <tr> 
@@ -93,6 +95,7 @@ author_profile: true
 </table>
 
 ## 2020
+-------
 
 <table>
     <tr> 
@@ -105,6 +108,7 @@ author_profile: true
 </table>
 
 ## 2019
+-------
 
 <table>
     <tr> 

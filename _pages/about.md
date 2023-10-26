@@ -15,6 +15,7 @@ You can find more info on my [CV](https://andreeaiana.github.io/files/231025_CV_
 
 
 ## News
+-------
 
 <table class="twoColumnTable">
     <tbody>
