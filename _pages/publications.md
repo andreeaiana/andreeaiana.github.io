@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on my <u><a href="{{author.googlescholar}}">Google Scholar profile</a>.</u>
+<u><a href="{{author.googlescholar}}">Google Scholar</a></u> profile
 
 <!-- {% include base_path %}
 
@@ -39,7 +39,7 @@ You can also find my articles on my <u><a href="{{author.googlescholar}}">Google
     </tr>
     <tr> 
         <td><a href="https://journals.sagepub.com/doi/pdf/10.1177/08944393221149290/"><b>Divided by the Algorithm? The (Limited) Effects of Content-and Sentiment-Based News Recommendation on Affective, Ideological, and Perceived Polarization</b></a><br>
-        atharina Ludwig, Alexander Grote, <u>Andreea Iana</u>, Mehwish Alam, Heiko Paulheim, Harald Sack, Christof Weinhardt, Philipp Müller.<br>
+        Katharina Ludwig, Alexander Grote, <u>Andreea Iana</u>, Mehwish Alam, Heiko Paulheim, Harald Sack, Christof Weinhardt, Philipp Müller.<br>
         <i>Social Science Computer Review (2023)</i><br>
         <div class="paper_button"><b>ARTICLE</b></div>&nbsp;<div class="article_button"><b>Social Science Computer Review</b></div>
         </td>
@@ -66,7 +66,7 @@ You can also find my articles on my <u><a href="{{author.googlescholar}}">Google
     <tr> 
         <td><a href="https://dl.acm.org/doi/pdf/10.1145/3487553.3524674/"><b>Towards Analyzing the Bias of News Recommender Systems Using Sentiment and Stance Detection</b></a><br>
         Alam Mehwish, <u>Andreea Iana</u>, Alexander Grote, Katharina Ludwig, Philipp Müller, Heiko Paulheim.<br>
-        <i>2Companion Proceedings of the Web Conference 2022, pp. 448-457. 2022.</i><br>
+        <i>Companion Proceedings of the Web Conference 2022, pp. 448-457. 2022.</i><br>
         <div class="paper_button"><b>WORKSHOP</b></div>&nbsp;<div class="conf_button"><b>JCDL</b></div>
         </td>
     </tr>
@@ -110,7 +110,7 @@ You can also find my articles on my <u><a href="{{author.googlescholar}}">Google
         <td><a href="https://link.springer.com/chapter/10.1007/978-3-030-33220-4_9/"><b>Building a Conference Recommender System Based on SciGraph and WikiCFP</b></a><br>
         <u>Andreea Iana</u>, Steffen Jung, Philipp Naeser, Aliaksandr Birukou, Sven Hertling, Heiko Paulheim.<br>
         <i>Semantic Systems. The Power of AI and Knowledge Graphs: 15th International Conference, SEMANTiCS 2019, Proceedings 15, pp. 117-123. Springer International Publishing, 2019.</i><br>
-        <div class="paper_button"><b>LONG</b></div>&nbsp;<div class="conf_button"><b>SEMANTICS</b></div>
+        <div class="paper_button"><b>LONG</b></div>&nbsp;<div class="conf_button"><b>SEMANTiCS</b></div>
         </td>
     </tr>
 </table>
