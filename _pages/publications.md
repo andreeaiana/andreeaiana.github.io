@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<u><a href="{{author.googlescholar}}">Google Scholar</a></u> profile
+<u><a href="https://scholar.google.com/citations?user=D8DbFZoAAAAJ&hl=en">Google Scholar</a></u> profile
 
 <!-- {% include base_path %}
 
@@ -14,10 +14,11 @@ author_profile: true
 {% endfor %} -->
 
 ## 2023
+-------
 
 <table>
     <tr> 
-        <td><a href="https://arxiv.org/pdf/2310.01146.pdf/"><b>NewsRecLib: A PyTorch-Lightning Library for Neural News Recommendation</b></a><br>
+        <td><a href="https://arxiv.org/pdf/2310.01146.pdf"><b>NewsRecLib: A PyTorch-Lightning Library for Neural News Recommendation</b></a><br>
         <u>Andreea Iana</u>, Goran Glavaš, Heiko Paulheim.<br>
         <i>Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing: System Demonstration.</i><br>
         <div class="paper_button"><b>DEMO</b></div>&nbsp;<div class="conf_button"><b>EMNLP</b></div>
@@ -26,7 +27,7 @@ author_profile: true
     <tr> 
         <td><a href="https://telecom-paris.hal.science/hal-04197081v1/file/2309.00550.pdf/"><b>NeMig--A Bilingual News Collection and Knowledge Graph about Migration</b></a><br>
         <u>Andreea Iana</u>, Mehwish Alam, Alexander Grote, Nevena Nikolajevic, Katharina Ludwig, Philipp Müller, Christof Weinhardt, Heiko Paulheim.<br>
-        <i>Proceedings of the 11th Workshop on News Recommendation and Analytics co-located with RecSys 2023, Sep 2023, Singapore.</i><br>
+        <i>Proceedings of the 11th Workshop on News Recommendation and Analytics (INRA'23) co-located with RecSys 2023, 2023, Singapore.</i><br>
         <div class="paper_button"><b>WORKSHOP</b></div>&nbsp;<div class="conf_button"><b>RecSys</b></div>
         </td>
     </tr>
@@ -67,11 +68,11 @@ author_profile: true
         <td><a href="https://dl.acm.org/doi/pdf/10.1145/3487553.3524674/"><b>Towards Analyzing the Bias of News Recommender Systems Using Sentiment and Stance Detection</b></a><br>
         Alam Mehwish, <u>Andreea Iana</u>, Alexander Grote, Katharina Ludwig, Philipp Müller, Heiko Paulheim.<br>
         <i>Companion Proceedings of the Web Conference 2022, pp. 448-457. 2022.</i><br>
-        <div class="paper_button"><b>WORKSHOP</b></div>&nbsp;<div class="conf_button"><b>JCDL</b></div>
+        <div class="paper_button"><b>WORKSHOP</b></div>&nbsp;<div class="conf_button"><b>The Web Conference</b></div>
         </td>
     </tr>
     <tr> 
-        <td><a href="https://content.iospress.com/articles/semantic-web/sw222991/"><b>A Survey on Knowledge-aware News Recommender Systems</b></a><br>
+        <td><a href="https://content.iospress.com/articles/semantic-web/sw222991"><b>A Survey on Knowledge-aware News Recommender Systems</b></a><br>
         <u>Andreea Iana</u>, Mehwish Alam, Heiko Paulheim.<br>
         <i>Semantic Web, (Preprint), 1-62. 2022.</i><br>
         <div class="paper_button"><b>ARTICLE</b></div>&nbsp;<div class="article_button"><b>Semantic Web</b></div>
@@ -95,7 +96,7 @@ author_profile: true
 
 <table>
     <tr> 
-        <td><a href="https://ceur-ws.org/Vol-2699/paper05.pdf/"><b>More is not Always Better: The Negative Impact of A-box Materialization on RDF2vec Knowledge Graph Embeddings</b></a><br>
+        <td><a href="https://ceur-ws.org/Vol-2699/paper05.pdf"><b>More is not Always Better: The Negative Impact of A-box Materialization on RDF2vec Knowledge Graph Embeddings</b></a><br>
         <u>Andreea Iana</u>, Heiko Paulheim.<br>
         <i>Proceedings of the CIKM 2020 Workshops co-located with 29th ACM International Conference on Information and Knowledge Management (CIKM 2020).</i><br>
         <div class="paper_button"><b>WORKSHOP</b></div>&nbsp;<div class="conf_button"><b>CIKM</b></div>
