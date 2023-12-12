@@ -10,10 +10,11 @@ author_profile: true
 
 * ### Reviewer
   * Conference: ESWC 2021, ESWC 2022, ESWC 2024
-  * Workshop: PoliticalNLP 2022, DL4KG 2022, DL4KG 2023, BeyondFacts’23
+  * Workshop: PoliticalNLP 2022, DL4KG 2022, DL4KG 2023, BeyondFacts’23, BeyondFacts'24
   * Journal: Journal of Web Semantics, Information Systems Journal
 
 * ### Presentations
+  * 2023-12-10: [Poster] NewsRecLib Demo @ EMNLP 2023
   * 2023-09-18: [Oral] NeMig @ INRA Workshop, RecSys 2023
   * 2023-07-25: [Poster] Simplifying NNRs @ SIGIR 2023
   * 2022-04-26: [Oral] News Recommenders Bias @ BeyondFacts'22 Workshop, The Web Conference 2022
