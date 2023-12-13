@@ -25,7 +25,7 @@ author_profile: true
         </td>
     </tr>
     <tr> 
-        <td><a href="https://ceur-ws.org/Vol-3561/paper3.pdf/"><b>NeMig--A Bilingual News Collection and Knowledge Graph about Migration</b></a><br>
+        <td><a href="https://ceur-ws.org/Vol-3561/paper3.pdf"><b>NeMig--A Bilingual News Collection and Knowledge Graph about Migration</b></a><br>
         <u>Andreea Iana</u>, Mehwish Alam, Alexander Grote, Nevena Nikolajevic, Katharina Ludwig, Philipp Müller, Christof Weinhardt, Heiko Paulheim.<br>
         <i>Proceedings of the International Workshop on News Recommendation and Analytics co-located with the 2023 ACM Conference on Recommender Systems (RecSys 2023), 2023, Singapore.</i><br>
         <div class="paper_button"><b>WORKSHOP</b></div>&nbsp;<div class="conf_button"><b>RecSys</b></div>
