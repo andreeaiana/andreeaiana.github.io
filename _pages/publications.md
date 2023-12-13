@@ -18,16 +18,16 @@ author_profile: true
 
 <table>
     <tr> 
-        <td><a href="https://arxiv.org/pdf/2310.01146.pdf"><b>NewsRecLib: A PyTorch-Lightning Library for Neural News Recommendation</b></a><br>
+        <td><a href="https://aclanthology.org/2023.emnlp-demo.26.pdf"><b>NewsRecLib: A PyTorch-Lightning Library for Neural News Recommendation</b></a><br>
         <u>Andreea Iana</u>, Goran Glavaš, Heiko Paulheim.<br>
-        <i>Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing: System Demonstration.</i><br>
+        <i>PProceedings of the 2023 Conference on Empirical Methods in Natural Language Processing: System Demonstrations</i><br>
         <div class="paper_button"><b>DEMO</b></div>&nbsp;<div class="conf_button"><b>EMNLP</b></div>
         </td>
     </tr>
     <tr> 
-        <td><a href="https://telecom-paris.hal.science/hal-04197081v1/file/2309.00550.pdf/"><b>NeMig--A Bilingual News Collection and Knowledge Graph about Migration</b></a><br>
+        <td><a href="https://ceur-ws.org/Vol-3561/paper3.pdf/"><b>NeMig--A Bilingual News Collection and Knowledge Graph about Migration</b></a><br>
         <u>Andreea Iana</u>, Mehwish Alam, Alexander Grote, Nevena Nikolajevic, Katharina Ludwig, Philipp Müller, Christof Weinhardt, Heiko Paulheim.<br>
-        <i>Proceedings of the 11th Workshop on News Recommendation and Analytics (INRA'23) co-located with RecSys 2023, 2023, Singapore.</i><br>
+        <i>Proceedings of the International Workshop on News Recommendation and Analytics co-located with the 2023 ACM Conference on Recommender Systems (RecSys 2023), 2023, Singapore.</i><br>
         <div class="paper_button"><b>WORKSHOP</b></div>&nbsp;<div class="conf_button"><b>RecSys</b></div>
         </td>
     </tr>
