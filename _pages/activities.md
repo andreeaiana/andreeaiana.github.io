@@ -29,6 +29,7 @@ author_profile: true
 -----------
 
 * ### Tutorials
+  * [Data Mining II](https://www.uni-mannheim.de/dws/teaching/course-details/courses-for-master-candidates/ie-672-data-mining-2/) (Master, Spring 2024)
   * [Data Mining I](https://www.uni-mannheim.de/dws/teaching/course-details/courses-for-master-candidates/ie-500-data-mining/) (Master, Fall 2023)
 * ### Team Projects
   * A Chatbot for Study Advice (Master, Fall 2023)
