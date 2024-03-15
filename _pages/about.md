@@ -20,6 +20,10 @@ You can find more info on my [CV](https://andreeaiana.github.io/files/231025_CV_
     <tbody>
         <tr>
             <td class="left-column">Oct, 2023</td>
+            <td class="right-column">I gave a <a href="https://andreeaiana.github.io/files/240314_mcds_academic_speed_dating.pdf"><b>talk</b></a>  about my work on the <a href="https://github.com/andreeaiana/xMIND"><b>xMIND multingual news dataset</b></a> at the <a href="https://www.uni-mannheim.de/en/datascience/details/mcds-invites-academic-speed-dating-on-data-science/">MCDS Academic Speed Dating on Data Science</a>.</td>
+        </tr>
+        <tr>
+            <td class="left-column">Oct, 2023</td>
             <td class="right-column">Our paper "NewsRecLib: A PyTorch-Lightning Library for Neural News Recommendation" was accepted to EMNLP 2023, Systems Demonstration!</td>
         </tr>
         <tr>
