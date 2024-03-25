@@ -14,7 +14,7 @@ I am a fourth-year PhD student at the [University of Mannheim](https://www.uni-m
 You can find more info on my [CV](https://andreeaiana.github.io/files/240325_CV_AIANA.pdf).
 
 
-## Updates
+## News
 
 <table class="twoColumnTable">
     <tbody>
