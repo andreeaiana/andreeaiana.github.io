@@ -9,8 +9,8 @@ author_profile: true
 --------------------------
 
 * ### Reviewer
-  * Conference: ARR, ESWC 2021, ESWC 2022, ESWC 2024, ISWC 2024
-  * Workshop: PoliticalNLP 2022, DL4KG 2022, DL4KG 2023, BeyondFacts’23, BeyondFacts'24
+  * Conference: ARR, ISWC 2024, ESWC 2024, ESWC 2022, ESWC 2021 
+  * Workshop: PoliticalNLP 2024, BeyondFacts'24, BeyondFacts’23, DL4KG 2023, DL4KG 2022, PoliticalNLP 2022   
   * Journal: Journal of Web Semantics, Information Systems Journal
 
 * ### Presentations
@@ -38,4 +38,3 @@ author_profile: true
 * ### Thesis Co-Supervisor
   * Diversified Scientific Research Recommendation (Master, Fall 2023)
   * A Comparative Analysis of Negative Sampling Techniques for News Recommenders (Bachelor, Fall 2023)
-
