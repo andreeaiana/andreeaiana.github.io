@@ -18,6 +18,10 @@ You can find more info on my [CV](https://andreeaiana.github.io/files/240325_CV_
 
 <table class="twoColumnTable">
     <tbody>
+         <tr>
+            <td class="left-column">March, 2024</td>
+            <td class="right-column">Our paper "MIND Your Language: A Multilingual Dataset For Cross-lingual News Recommendation" was accepted to SIGIR 2024, in the Resource and Reproducibility Track!</td>
+        </tr>
         <tr>
             <td class="left-column">March, 2024</td>
             <td class="right-column">I gave a <a href="https://andreeaiana.github.io/files/240314_mcds_academic_speed_dating.pdf"><b>talk</b></a>  about my work on the <a href="https://github.com/andreeaiana/xMIND"><b>xMIND multingual news dataset</b></a> at the <a href="https://www.uni-mannheim.de/en/datascience/details/was-umfrage-methodik-und-data-science-von-einander-lernen-koennen/">MCDS Academic Speed Dating on Data Science</a>.</td>
