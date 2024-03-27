@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Data&Software"
-permalink: /data_softwae/
+permalink: /data_software/
 author_profile: true
 ---
 
