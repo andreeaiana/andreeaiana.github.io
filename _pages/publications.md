@@ -13,6 +13,18 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+## 2024
+-------
+<table>
+    <tr> 
+        <td><a href="https://arxiv.org/pdf/2403.17876.pdf"><b>MIND Your Language: A Multilingual Dataset for Cross-lingual News Recommendation</b></a><br>
+        <u>Andreea Iana</u>, Goran Glavaš, Heiko Paulheim.<br>
+        <i>Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval</i><br>
+        <div class="paper_button"><b>RESOURCE</b></div>&nbsp;<div class="conf_button"><b>SIGIR</b></div>
+        </td>
+    </tr>
+</table>
+
 ## 2023
 -------
 
@@ -20,7 +32,7 @@ author_profile: true
     <tr> 
         <td><a href="https://aclanthology.org/2023.emnlp-demo.26.pdf"><b>NewsRecLib: A PyTorch-Lightning Library for Neural News Recommendation</b></a><br>
         <u>Andreea Iana</u>, Goran Glavaš, Heiko Paulheim.<br>
-        <i>PProceedings of the 2023 Conference on Empirical Methods in Natural Language Processing: System Demonstrations</i><br>
+        <i>Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing: System Demonstrations</i><br>
         <div class="paper_button"><b>DEMO</b></div>&nbsp;<div class="conf_button"><b>EMNLP</b></div>
         </td>
     </tr>
