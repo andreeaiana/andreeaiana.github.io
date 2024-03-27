@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Data&Software"
+title: "Data & Software"
 permalink: /data_software/
 author_profile: true
 ---
@@ -8,7 +8,7 @@ author_profile: true
 ## Data
 --------------------------
 
-### **xMIND (A Multilingual Dataset for Cross-lingual News Recommendation)**
+* ### xMIND (A Multilingual Dataset for Cross-lingual News Recommendation)
 
   xMIND is a large-scale multilingual news dataset for multi- and cross-lingual news recommendation. xMIND is derived from the English [MIND](https://msnews.github.io/) dataset using open-source neural machine translation (i.e., NLLB 3.3B). 
   
@@ -19,7 +19,7 @@ author_profile: true
   Paper: [MIND Your Language: A Multilingual Dataset for Cross-lingual News Recommendation](https://arxiv.org/pdf/2403.17876v1.pdf) 
 
 
-### **NeMig - A Bilingual News Collection and Knowledge Graph about Migration**
+* ### NeMig - A Bilingual News Collection and Knowledge Graph about Migration
 
   NeMig represents a bilingual news collection and knowledge graphs on the topic of migration. The news corpora in German and English were collected from online media outlets from Germany and the US, respectively. NeMIg contains rich textual and metadata information, sentiment and political orientation annotations, as well as named entities extracted from the articles' content and metadata and linked to Wikidata. The corresponding knowledge graphs (NeMigKG) built from each corpus are expanded with up to two-hop neighbors from Wikidata of the initial set of linked entities.
 
@@ -32,7 +32,7 @@ author_profile: true
 ## Software
 -----------
 
-### **NewsRecLib: A PyTorch-Lightning Library for Neural News Recommendation**
+* ### NewsRecLib: A PyTorch-Lightning Library for Neural News Recommendation
   * Code: [GitHub](https://github.com/andreeaiana/newsreclib)
   * Documentation: [Read the Docs](https://newsreclib.readthedocs.io/en/latest/)
   * Paper: [NewsRecLib: A PyTorch-Lightning Library for Neural News Recommendation](https://aclanthology.org/2023.emnlp-demo.26/)
