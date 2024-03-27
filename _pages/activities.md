@@ -9,8 +9,8 @@ author_profile: true
 --------------------------
 
 * ### Reviewer
-  * Conference: ARR, ISWC 2024, ESWC 2024, ESWC 2022, ESWC 2021 
-  * Workshop: PoliticalNLP 2024, BeyondFacts'24, BeyondFacts’23, DL4KG 2023, DL4KG 2022, PoliticalNLP 2022   
+  * Conference: ARR, ISWC (2024), ESWC (2021, 2022, 2024)
+  * Workshop: PoliticalNLP @ LREC-COLING (2024), BeyondFacts @ The Web Conference (2023, 2024), DL4KG @ ISWC (2022, 2023), PoliticalNLP @ LREC (2022)  
   * Journal: Journal of Web Semantics, Information Systems Journal
 
 * ### Presentations
