@@ -30,7 +30,7 @@ You can find more info on my [CV](https://andreeaiana.github.io/files/240327_CV_
         </tr>
         <tr>
             <td class="left-column">Dec, 2023</td>
-            <td class="right-column">I've started my research visit in the <a href="https://www.informatik.uni-wuerzburg.de/nlp/">WüNLP Group</a> at the <a href="https://www.uni-wuerzburg.de/">University of Würzburg</a> under the upervision of Prof. <a href="https://sites.google.com/view/goranglavas">Goran Glavaš</a>, working on multilingual and cross-lingual news recommendation.</td>
+            <td class="right-column">I've started my research visit in the <a href="https://www.informatik.uni-wuerzburg.de/nlp/">WüNLP Group</a> at the <a href="https://www.uni-wuerzburg.de/">University of Würzburg</a> under the supervision of Prof. <a href="https://sites.google.com/view/goranglavas">Goran Glavaš</a>, working on multilingual and cross-lingual news recommendation.</td>
         </tr>
         <tr>
             <td class="left-column">Oct, 2023</td>
