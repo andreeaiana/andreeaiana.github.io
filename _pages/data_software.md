@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Data & Software"
+title: "Data&Software"
 permalink: /data_softwae/
 author_profile: true
 ---

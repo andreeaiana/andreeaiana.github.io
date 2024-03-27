@@ -6,6 +6,9 @@ main:
   - title: "Activities"
     url: /activities/
 
+  - title: "Data&Software"
+    url: /data_software/
+
   # - title: "Talks"
   #   url: /talks/    
   #
