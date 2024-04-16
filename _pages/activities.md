@@ -15,7 +15,7 @@ author_profile: true
 
 * ### Presentations
   * 2024-03-14: [[Oral]](https://andreeaiana.github.io/files/240314_mcds_academic_speed_dating.pdf) MIND Your Language @ MCDS Academic Speed Dating
-  * 2023-12-10: [[Poster]](https://andreeaiana.github.io/files/231210_demo_emnlp.pdf) NewsRecLib Demo @ EMNLP 2023
+  * 2023-12-10: [[Poster]](https://andreeaiana.github.io/files/231210_demo_emnlp.pdf) NewsRecLib @ EMNLP 2023
   * 2023-09-18: [[Oral]](https://andreeaiana.github.io/files/230918_workshop_recsys.pdf) NeMig @ INRA Workshop, RecSys 2023
   * 2023-07-25: [[Poster]](https://andreeaiana.github.io/files/230725_short_sigir.pdf) Simplifying NNRs @ SIGIR 2023
   * 2022-04-26: [[Oral]](https://andreeaiana.github.io/files/220426_workshop_webconf.pdf) News Recommenders Bias @ BeyondFacts'22 Workshop, The Web Conference 2022
