@@ -14,12 +14,12 @@ author_profile: true
   * Journal: Journal of Web Semantics, Information Systems Journal
 
 * ### Presentations
-  * 2024-03-14: [Oral] MIND Your Language @ MCDS Academic Speed Dating
-  * 2023-12-10: [Poster] NewsRecLib Demo @ EMNLP 2023
-  * 2023-09-18: [Oral] NeMig @ INRA Workshop, RecSys 2023
-  * 2023-07-25: [Poster] Simplifying NNRs @ SIGIR 2023
-  * 2022-04-26: [Oral] News Recommenders Bias @ BeyondFacts'22 Workshop, The Web Conference 2022
-  * 2021-09-28: [Oral] GraphConfRec @ JCDL 2021
+  * 2024-03-14: [[Oral]](https://andreeaiana.github.io/files/240314_mcds_academic_speed_dating.pdf) MIND Your Language @ MCDS Academic Speed Dating
+  * 2023-12-10: [[Poster]](https://andreeaiana.github.io/files/231210_demo_emnlp.pdf) NewsRecLib Demo @ EMNLP 2023
+  * 2023-09-18: [[Oral]](https://andreeaiana.github.io/files/230918_workshop_recsys.pdf) NeMig @ INRA Workshop, RecSys 2023
+  * 2023-07-25: [[Poster]](https://andreeaiana.github.io/files/230725_short_sigir.pdf) Simplifying NNRs @ SIGIR 2023
+  * 2022-04-26: [[Oral]](https://andreeaiana.github.io/files/220426_workshop_webconf.pdf) News Recommenders Bias @ BeyondFacts'22 Workshop, The Web Conference 2022
+  * 2021-09-28: [[Oral]](https://andreeaiana.github.io/files/210928_long_jcdl.pdf) GraphConfRec @ JCDL 2021
   * 2019-09-10: [Oral] Conference Recommender System @ SEMANTiCS 2019
 
 
@@ -35,6 +35,6 @@ author_profile: true
 * ### Team Projects
   * A Chatbot for Study Advice (Master, Fall 2023)
   * Developing a Python Library for News Recommenders (Master, Spring 2022)
-* ### Thesis Co-Supervisor
+* ### Thesis Supervisor
   * Diversified Scientific Research Recommendation (Master, Fall 2023)
   * A Comparative Analysis of Negative Sampling Techniques for News Recommenders (Bachelor, Fall 2023)
