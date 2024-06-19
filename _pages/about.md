@@ -20,6 +20,10 @@ You can find more info on my [CV](https://andreeaiana.github.io/files/240327_CV_
 
 <table class="twoColumnTable">
     <tbody>
+        <tr>
+            <td class="left-column">May, 2024</td>
+            <td class="right-column">We released the multilingual <a href="https://huggingface.co/datasets/aiana94/polynews">PolyNews</a> and <a href="https://huggingface.co/datasets/aiana94/polynews-parallel">PolyNewsParallel</a> datasets on HuggingFace.</td>
+        </tr>
          <tr>
             <td class="left-column">Mar, 2024</td>
             <td class="right-column">Our paper "MIND Your Language: A Multilingual Dataset For Cross-lingual News Recommendation" was accepted to SIGIR 2024, in the Resource and Reproducibility Track!</td>
