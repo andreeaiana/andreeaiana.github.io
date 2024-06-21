@@ -56,7 +56,7 @@ author_profile: true
 
   Paper: [News Without Borders: Domain Adaptation of Multilingual Sentence Embeddings for Cross-lingual News Recommendation](https://arxiv.org/pdf/2406.12634)
   
-  Code: https://github.com/andreeaiana/nase/tree/main
+  Code: [https://github.com/andreeaiana/nase/](https://github.com/andreeaiana/nase/)
 
 
 ## Software
