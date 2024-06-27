@@ -22,6 +22,10 @@ You can find more info on my [CV](https://andreeaiana.github.io/files/240327_CV_
     <tbody>
         <tr>
             <td class="left-column">May, 2024</td>
+            <td class="right-column"> We released <a href="https://huggingface.co/datasets/aiana94/xMINDlarge">xMINDlarge</a> and <a href="https://huggingface.co/datasets/aiana94/xMINDsmall">xMINDsmall</a> now also on HuggingFace.</td>
+        </tr>
+        <tr>
+            <td class="left-column">May, 2024</td>
             <td class="right-column">We released the multilingual <a href="https://huggingface.co/datasets/aiana94/polynews">PolyNews</a> and <a href="https://huggingface.co/datasets/aiana94/polynews-parallel">PolyNewsParallel</a> datasets on HuggingFace.</td>
         </tr>
          <tr>

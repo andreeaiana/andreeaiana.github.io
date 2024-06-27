@@ -14,9 +14,9 @@ author_profile: true
 
   PolyNews aims to provide an easily-accessible, unified and de-duplicated dataset that combines five disparate data sources. It can be used for domain adaptation of language models, language modeling, or text generation in both high-resource and low-resource languages.
 
-  Access the dataset on [HuggingFace](https://huggingface.co/datasets/aiana94/polynews-parallel)
+  Access the dataset on [HuggingFace Datasets](https://huggingface.co/datasets/aiana94/polynews-parallel).
 
-  Paper: [News Without Borders: Domain Adaptation of Multilingual Sentence Embeddings for Cross-lingual News Recommendation](https://arxiv.org/pdf/2406.12634)
+  Paper: [News Without Borders: Domain Adaptation of Multilingual Sentence Embeddings for Cross-lingual News Recommendation](https://arxiv.org/pdf/2406.12634).
 
 
 * ### PolyNewsParallel
@@ -25,9 +25,9 @@ author_profile: true
 
   PolyNewsParallel aims to provide an easily-accessible, unified and de-duplicated dataset that combines three disparate data sources. It can be used for machine translation or text retrieval in both high-resource and low-resource languages.
 
-  Access the dataset on [HuggingFace](https://huggingface.co/datasets/aiana94/polynews-parallel)
+  Access the dataset on [HuggingFace Datasets](https://huggingface.co/datasets/aiana94/polynews-parallel).
 
-  Paper: [News Without Borders: Domain Adaptation of Multilingual Sentence Embeddings for Cross-lingual News Recommendation](https://arxiv.org/pdf/2406.12634)
+  Paper: [News Without Borders: Domain Adaptation of Multilingual Sentence Embeddings for Cross-lingual News Recommendation](https://arxiv.org/pdf/2406.12634).
 
 * ### xMIND (A Multilingual Dataset for Cross-lingual News Recommendation)
 
@@ -36,9 +36,10 @@ author_profile: true
   xMIND contains 130K news translated into 14 linguistically and geographically diverse languages, with digital footprints of varying sizes. The goal of xMIND is to serve as a benchmark dataset for news recommendation, and to foster broader research into multilingual and cross-lingual news recommendation, for speakers of both high and low-resource languages. 
 
   Access the dataset on [GitHub](https://github.com/andreeaiana/xMIND)
-  
-  Paper: [MIND Your Language: A Multilingual Dataset for Cross-lingual News Recommendation](https://arxiv.org/pdf/2403.17876v1.pdf) 
 
+  Access [xMINDlarge](https://huggingface.co/datasets/aiana94/xMINDlarge) and [xMINDsmall](https://huggingface.co/datasets/aiana94/xMINDsmall) on HuggingFace Datasets.
+  
+  Paper: [MIND Your Language: A Multilingual Dataset for Cross-lingual News Recommendation](https://arxiv.org/pdf/2403.17876v1.pdf).
 
 * ### NeMig - A Bilingual News Collection and Knowledge Graph about Migration
 
@@ -46,7 +47,7 @@ author_profile: true
 
   Access the dataset on [Zenodo](https://zenodo.org/records/7908392).
   
-  Paper: [NeMig - A Bilingual News Collection and Knowledge Graph about Migration](https://ceur-ws.org/Vol-3561/paper3.pdf)
+  Paper: [NeMig - A Bilingual News Collection and Knowledge Graph about Migration](https://ceur-ws.org/Vol-3561/paper3.pdf).
 
 ## Models
 
@@ -54,10 +55,11 @@ author_profile: true
 
   NaSE is a news-adapted sentence encoder, domain-specialized starting from a pretrained massively multilingual sentence encoder. It leverages the [PolyNews](https://huggingface.co/datasets/aiana94/polynews) and [PolyNewsParallel](https://huggingface.co/datasets/aiana94/polynews-parallel) corpora, and was pretrained using two objectives, namely denoising auto-encoding and sequence-to-sequence machine translation. 
 
-  Paper: [News Without Borders: Domain Adaptation of Multilingual Sentence Embeddings for Cross-lingual News Recommendation](https://arxiv.org/pdf/2406.12634)
-  
-  Code: [https://github.com/andreeaiana/nase/](https://github.com/andreeaiana/nase/)
+  Access the model directly from [HuggingFace Models](https://huggingface.co/aiana94/NaSE).
 
+  Paper: [News Without Borders: Domain Adaptation of Multilingual Sentence Embeddings for Cross-lingual News Recommendation](https://arxiv.org/pdf/2406.12634).
+  
+  Code: [https://github.com/andreeaiana/nase/](https://github.com/andreeaiana/nase/).
 
 ## Software
 -----------
