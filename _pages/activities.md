@@ -14,6 +14,8 @@ author_profile: true
   * Journal: Journal of Web Semantics, Information Systems Journal
 
 * ### Presentations
+  * 2024-07-17: [[Poster]](https://andreeaiana.github.io/files/17072024_resource_sigir) MIND Your Language @ SIGIR 2024
+  * 2024-07-15: [[Oral]](https://andreeaiana.github.io/files/15072024_resource_sigir) MIND Your Language @ SIGIR 2024
   * 2024-03-14: [[Oral]](https://andreeaiana.github.io/files/240314_mcds_academic_speed_dating.pdf) MIND Your Language @ MCDS Academic Speed Dating
   * 2023-12-10: [[Poster]](https://andreeaiana.github.io/files/231210_demo_emnlp.pdf) NewsRecLib @ EMNLP 2023
   * 2023-09-18: [[Oral]](https://andreeaiana.github.io/files/230918_workshop_recsys.pdf) NeMig @ INRA Workshop, RecSys 2023
