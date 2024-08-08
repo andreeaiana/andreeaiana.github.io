@@ -98,7 +98,7 @@ author_profile: true
 
 <table>
     <tr> 
-        <td><a href="https://ieeexplore.ieee.org/abstract/document/9651888/"><b>GraphConfRec: A Graph Neural Network-based Conference Recommender System</b></a><br>
+        <td><a href="https://ieeexplore.ieee.org/abstract/document/9651888/"><b>GraphConfRec: A Graph Neural Network-Based Conference Recommender System</b></a><br>
         <u>Andreea Iana</u>, Heiko Paulheim.<br>
         <i>2021 ACM/IEEE Joint Conference on Digital Libraries (JCDL), pp. 90-99. IEEE, 2021.</i><br>
         <div class="paper_button"><b>LONG</b></div>&nbsp;<div class="conf_button"><b>JCDL</b></div>
