@@ -21,6 +21,10 @@ You can find more info on my [CV](https://andreeaiana.github.io/files/240807_CV_
 <table class="twoColumnTable">
     <tbody>
         <tr>
+            <td class="left-column">Mar, 2024</td>
+            <td class="right-column">Our paper "Train Once, Use Flexibly: A Modular Framework for Multi-Aspect Neural News Recommendation" was accepted to Findings of EMNLP 2024!</td>
+        </tr>
+        <tr>
             <td class="left-column">May, 2024</td>
             <td class="right-column"> We released <a href="https://huggingface.co/datasets/aiana94/xMINDlarge">xMINDlarge</a> and <a href="https://huggingface.co/datasets/aiana94/xMINDsmall">xMINDsmall</a> now also on HuggingFace.</td>
         </tr>
