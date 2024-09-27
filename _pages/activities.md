@@ -14,6 +14,7 @@ author_profile: true
   * Journal: Journal of Web Semantics, Information Systems Journal
 
 * ### Presentations
+  * 2024-09-26: [[Oral]](https://andreeaiana.github.io/files/26092024_extended_abstract_ki.pdf) MIND Your Language @ KI 2024
   * 2024-07-17: [[Poster]](https://andreeaiana.github.io/files/17072024_resource_sigir.pdf) MIND Your Language @ SIGIR 2024
   * 2024-07-15: [[Oral]](https://andreeaiana.github.io/files/15072024_resource_sigir.pdf) MIND Your Language @ SIGIR 2024
   * 2024-03-14: [[Oral]](https://andreeaiana.github.io/files/240314_mcds_academic_speed_dating.pdf) MIND Your Language @ MCDS Academic Speed Dating
@@ -32,6 +33,7 @@ author_profile: true
 -----------
 
 * ### Tutorials
+  * [Data Mining](https://www.uni-mannheim.de/dws/teaching/course-details/courses-for-master-candidates/ie-500-data-mining/) (Master, Fall 2024)
   * [Data Mining II](https://www.uni-mannheim.de/dws/teaching/course-details/courses-for-master-candidates/ie-672-data-mining-2/) (Master, Spring 2024)
   * [Data Mining I](https://www.uni-mannheim.de/dws/teaching/course-details/courses-for-master-candidates/ie-500-data-mining/) (Master, Fall 2023)
 * ### Team Projects
