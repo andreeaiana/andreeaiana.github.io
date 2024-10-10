@@ -17,14 +17,20 @@ author_profile: true
 -------
 <table>
     <tr> 
+        <td><a href="https://arxiv.org/abs/2410.01470"><b>Peeling Back the Layers: An In-Depth Evaluation of Encoder Architectures in Neural News Recommenders</b></a><br><u>Andreea Iana</u>, Goran Glavaš, Heiko Paulheim.<br>
+        <i>Proceedings of the International Workshop on News Recommendation and Analytics co-located with the 2024 ACM Conference on Recommender Systems (RecSys 2024), 2024, Italy.</i><br>
+        <div class="paper_button"><b>WORKSHOP</b></div>&nbsp;<div class="conf_button"><b>RecSys</b></div>
+        </td>
+    </tr>
+    <tr> 
         <td><a href="https://arxiv.org/abs/2307.16089"><b>Train Once, Use Flexibly: A Modular Framework for Multi-Aspect Neural News Recommendation</b></a><br><u>Andreea Iana</u>, Goran Glavaš, Heiko Paulheim.<br>
-        <i> Findings of the 2024 Conference on Empirical Methods in Natural Language Processing</i><br>
+        <i>Findings of the 2024 Conference on Empirical Methods in Natural Language Processing</i><br>
         <div class="paper_button"><b>LONG</b></div>&nbsp;<div class="conf_button"><b>EMNLP</b></div>
         </td>
     </tr>
     <tr> 
         <td><a href="https://link.springer.com/chapter/10.1007/978-3-031-70893-0_27"><b>MIND Your Language: A Multilingual Dataset for Cross-Lingual News Recommendation (Extended Abstract)</b></a><br><u>Andreea Iana</u>, Goran Glavaš, Heiko Paulheim.<br>
-        <i> KI 2024: Advances in Artificial Intelligence. KI 2024. Lecture Notes in Computer Science, vol 14992. Springer, 2024</i><br>
+        <i>KI 2024: Advances in Artificial Intelligence. KI 2024. Lecture Notes in Computer Science, vol 14992. Springer, 2024</i><br>
         <div class="paper_button"><b>EXTENDED ABSTRACT</b></div>&nbsp;<div class="conf_button"><b>KI</b></div>
         </td>
     </tr>
