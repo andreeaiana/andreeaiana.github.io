@@ -23,7 +23,7 @@ author_profile: true
         </td>
     </tr>
     <tr> 
-        <td><a href="https://arxiv.org/abs/2307.16089"><b>Train Once, Use Flexibly: A Modular Framework for Multi-Aspect Neural News Recommendation</b></a><br><u>Andreea Iana</u>, Goran Glavaš, Heiko Paulheim.<br>
+        <td><a href="https://aclanthology.org/2024.findings-emnlp.558.pdf"><b>Train Once, Use Flexibly: A Modular Framework for Multi-Aspect Neural News Recommendation</b></a><br><u>Andreea Iana</u>, Goran Glavaš, Heiko Paulheim.<br>
         <i>Findings of the 2024 Conference on Empirical Methods in Natural Language Processing</i><br>
         <div class="paper_button"><b>LONG</b></div>&nbsp;<div class="conf_button"><b>EMNLP</b></div>
         </td>
