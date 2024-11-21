@@ -196,6 +196,12 @@
 .ai-scirate-square:before {
   content: "\e857";
 }
+.ai-semantic-scholar:before {
+  content: "\e96e";
+}
+.ai-semantic-scholar-square:before {
+  content: "\e96c";
+}
 .ai-springer:before {
   content: "\e858";
 }

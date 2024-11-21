@@ -87,6 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=D8DbFZoAAAAJ&hl=en"
+  semantic         : "https://www.semanticscholar.org/author/Andreea-Iana/2078837201"
   email            : "andreea.iana@uni-mannheim.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -109,6 +110,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
+  bluesky          : "andreea-iana.bsky.social"
   twitter          : "iana_andreea"
   vine             :
   weibo            :
