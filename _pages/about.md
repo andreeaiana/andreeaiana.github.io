@@ -21,6 +21,10 @@ You can find more info on my [CV](https://andreeaiana.github.io/files/241119_CV_
 <table class="twoColumnTable">
     <tbody>
         <tr>
+            <td class="left-column">Dec, 2024</td>
+            <td class="right-column">Our paper "News Without Borders: Domain Adaptation of Multilingual Sentence Embeddings for Cross-lingual News Recommendation" was accepted to ECIR 2025!</td>
+        </tr>
+        <tr>
             <td class="left-column">Oct, 2024</td>
             <td class="right-column">Our paper "Peeling Back the Layers: An In-Depth Evaluation of Encoder Architectures in Neural News Recommenders" was accepted to INRA'24, in conjunction with RecSys 2024!</td>
         </tr>
