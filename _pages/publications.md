@@ -13,6 +13,17 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+## 2025
+-------
+<table>
+    <tr> 
+        <td><a href="https://arxiv.org/abs/2406.12634"><b>News Without Borders: Domain Adaptation of Multilingual Sentence Embeddings for Cross-lingual News Recommendation</b></a><br><u>Andreea Iana</u>, Fabian David Schmidt, Goran Glavaš, Heiko Paulheim.<br>
+        <i>Proceedings of the 47th European Conference on Information Retrieval</i><br>
+        <div class="paper_button"><b>LONG</b></div>&nbsp;<div class="conf_button"><b>ECIR</b></div>
+        </td>
+    </tr>
+</table>
+
 ## 2024
 -------
 <table>
