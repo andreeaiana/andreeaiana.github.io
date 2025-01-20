@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-My CV can be found [here](https://andreeaiana.github.io/files/241119_CV_IANA.pdf). I will try and keep as up-to-date as possible.
+My CV can be found [here](https://andreeaiana.github.io/files/252001_CV_IANA.pdf). I will try and keep as up-to-date as possible.

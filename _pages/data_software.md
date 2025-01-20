@@ -57,7 +57,7 @@ author_profile: true
 
   Access the model directly from [HuggingFace Models](https://huggingface.co/aiana94/NaSE)
 
-  Paper: [News Without Borders: Domain Adaptation of Multilingual Sentence Embeddings for Cross-lingual News Recommendation](https://arxiv.org/pdf/2406.12634)
+  Paper: [News Without Borders: Domain Adaptation of Multilingual Sentence Embeddings for Cross-lingual News Recommendation](https://arxiv.org/abs/2406.12634)
   
   Code: [https://github.com/andreeaiana/nase/](https://github.com/andreeaiana/nase/)
 
