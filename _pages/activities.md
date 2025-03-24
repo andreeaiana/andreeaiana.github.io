@@ -39,6 +39,7 @@ author_profile: true
   * [Data Mining II](https://www.uni-mannheim.de/dws/teaching/course-details/courses-for-master-candidates/ie-672-data-mining-2/) (Master, Spring 2024)
   * [Data Mining I](https://www.uni-mannheim.de/dws/teaching/course-details/courses-for-master-candidates/ie-500-data-mining/) (Master, Fall 2023)
 * ### Team Projects
+  * Aligning Embeddings for Biomedical Applications (Master, Spring 2025)
   * A Chatbot for Study Advice (Master, Fall 2023)
   * Developing a Python Library for News Recommenders (Master, Spring 2022)
 * ### Thesis Supervisor
