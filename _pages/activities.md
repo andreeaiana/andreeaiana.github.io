@@ -14,7 +14,7 @@ author_profile: true
   * Journal: Journal of Web Semantics, Information Systems Journal
 
 * ### Presentations
-  * 2025-04-09: [[Oral](https://andreeaiana.github.io/files/09042025_long_ecir.pdf)] NaSE @ ECIR 2025
+  * 2025-04-09: [[Oral]](https://andreeaiana.github.io/files/09042025_long_ecir.pdf) NaSE @ ECIR 2025
   * 2024-11-13: [[Poster]](https://andreeaiana.github.io/files/13112014_findings_emnlp.pdf) MANNeR @ EMNLP 2024
   * 2024-09-26: [[Oral]](https://andreeaiana.github.io/files/18102024_workshop_inra.pdf) Evaluation of Encoder Architectures in NNRs @ INRA Workshop, RecSys 2024
   * 2024-09-26: [[Oral]](https://andreeaiana.github.io/files/26092024_extended_abstract_ki.pdf) MIND Your Language @ KI 2024
