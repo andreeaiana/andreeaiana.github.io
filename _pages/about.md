@@ -22,6 +22,10 @@ You can find more info on my [CV](https://andreeaiana.github.io/files/251504_CV_
     <tbody>
         <tr>
             <td class="left-column">Dec, 2024</td>
+            <td class="right-column">Our paper "Walk&Retrieve: Simple Yet Effective Zero-shot Retrieval-Augmented Generation via Knowledge Graph Walks" was accepted to IR-RAG 2025, in conjunction with SIGIR 2025!</td>
+        </tr>
+        <tr>
+            <td class="left-column">Dec, 2024</td>
             <td class="right-column">Our paper "News Without Borders: Domain Adaptation of Multilingual Sentence Embeddings for Cross-lingual News Recommendation" was accepted to ECIR 2025!</td>
         </tr>
         <tr>

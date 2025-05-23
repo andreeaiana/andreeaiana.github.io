@@ -17,7 +17,13 @@ author_profile: true
 -------
 <table>
     <tr> 
-        <td><a href="https://arxiv.org/abs/2406.12634"><b>News Without Borders: Domain Adaptation of Multilingual Sentence Embeddings for Cross-lingual News Recommendation</b></a><br><u>Andreea Iana</u>, Fabian David Schmidt, Goran Glavaš, Heiko Paulheim.<br>
+        <td><a href="https://arxiv.org/abs/2505.16849"><b>Walk&Retrieve: Simple Yet Effective Zero-shot Retrieval-Augmented Generation via Knowledge Graph Walks</b></a><br>Martin Böckling, Heiko Paulheim, <u>Andreea Iana</u><br>
+        <i>Proceedings of Information Retrieval’s Role in RAG Systems (IR-RAG 2025) co-located with the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2025).</i><br>
+        <div class="paper_button"><b>WORKSHOP</b></div>&nbsp;<div class="conf_button"><b>SIGIR</b></div>
+        </td>
+    </tr>
+    <tr> 
+        <td><a href="https://link.springer.com/chapter/10.1007/978-3-031-88711-6_8"><b>News Without Borders: Domain Adaptation of Multilingual Sentence Embeddings for Cross-lingual News Recommendation</b></a><br><u>Andreea Iana</u>, Fabian David Schmidt, Goran Glavaš, Heiko Paulheim.<br>
         <i>Proceedings of the 47th European Conference on Information Retrieval</i><br>
         <div class="paper_button"><b>LONG</b></div>&nbsp;<div class="conf_button"><b>ECIR</b></div>
         </td>
@@ -28,7 +34,7 @@ author_profile: true
 -------
 <table>
     <tr> 
-        <td><a href="https://arxiv.org/abs/2410.01470"><b>Peeling Back the Layers: An In-Depth Evaluation of Encoder Architectures in Neural News Recommenders</b></a><br><u>Andreea Iana</u>, Goran Glavaš, Heiko Paulheim.<br>
+        <td><a href="https://ceur-ws.org/Vol-3929/paper3.pdf"><b>Peeling Back the Layers: An In-Depth Evaluation of Encoder Architectures in Neural News Recommenders</b></a><br><u>Andreea Iana</u>, Goran Glavaš, Heiko Paulheim.<br>
         <i>Proceedings of the International Workshop on News Recommendation and Analytics co-located with the 2024 ACM Conference on Recommender Systems (RecSys 2024), 2024, Italy.</i><br>
         <div class="paper_button"><b>WORKSHOP</b></div>&nbsp;<div class="conf_button"><b>RecSys</b></div>
         </td>
