@@ -7,11 +7,13 @@ author_profile: true
 
 ## Professional Activities
 --------------------------
+* ### Organizer
+  * Chair of [13th International Workshop on News Recommendation and Analytics](https://research.idi.ntnu.no/NewsTech/INRA/index.html)
 
-* ### Reviewer
-  * Conference: ARR, SIGIR (2025), ISWC (2024), ESWC (2021, 2022, 2024)
-  * Workshop: PoliticalNLP @ LREC-COLING (2024), BeyondFacts @ The Web Conference (2023, 2024), DL4KG @ ISWC (2022, 2023), PoliticalNLP @ LREC (2022)  
-  * Journal: Journal of Web Semantics, Information Systems Journal
+* ### PC member / reviewer
+  * Conferences: ARR, SIGIR (2025), RecSys (2025), ISWC (2024), ESWC (2021, 2022, 2024)
+  * Workshops: PoliticalNLP @ LREC-COLING (2024), BeyondFacts @ The Web Conference (2023, 2024), DL4KG @ ISWC (2022, 2023), PoliticalNLP @ LREC (2022)  
+  * Journals: Journal of Web Semantics, Information Systems Journal
 
 * ### Presentations
   * 2025-04-09: [[Oral]](https://andreeaiana.github.io/files/09042025_long_ecir.pdf) NaSE @ ECIR 2025
