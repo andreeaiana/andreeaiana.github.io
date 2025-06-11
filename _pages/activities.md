@@ -5,16 +5,20 @@ permalink: /activities/
 author_profile: true
 ---
 
-## Professional Activities
+## Community Service
 --------------------------
-* ### Organizer
+* ### Chair
   * Chair of [13th International Workshop on News Recommendation and Analytics](https://research.idi.ntnu.no/NewsTech/INRA/index.html)
 
-* ### PC member / reviewer
-  * Conferences: ARR, SIGIR (2025), RecSys (2025), ISWC (2024), ESWC (2021, 2022, 2024)
-  * Workshops: PoliticalNLP @ LREC-COLING (2024), BeyondFacts @ The Web Conference (2023, 2024), DL4KG @ ISWC (2022, 2023), PoliticalNLP @ LREC (2022)  
+* ### PC member
+  * Conferences: ISWC 2024 (Research Track), ESWC 2024 (Resources Track)
+  * Workshops: International Workshop on Knowledge Graphs for Online Discourse Analysis (BeyondFacts @ WWW 2023, 2024, 2025), Workshop on Natural Language Processing for Political Sciences (PoliticalNLP @ LREC 20222, @ LREC-COLING 2024), Deep Learning for Knowledge Graphs Workshop (DL4KG @ ISWC 2023)  
+
+* ### Reviewer
+  * Conferences: ARR (ACL, EMNLP), SIGIR 2025 (Resource & Reproducibility Papers), RecSys 2025 (Late Breaking Results)
   * Journals: Journal of Web Semantics, Information Systems Journal
 
+## Professional Activities
 * ### Presentations
   * 2025-04-09: [[Oral]](https://andreeaiana.github.io/files/09042025_long_ecir.pdf) NaSE @ ECIR 2025
   * 2024-11-13: [[Poster]](https://andreeaiana.github.io/files/13112014_findings_emnlp.pdf) MANNeR @ EMNLP 2024
@@ -42,9 +46,8 @@ author_profile: true
   * [Data Mining II](https://www.uni-mannheim.de/dws/teaching/course-details/courses-for-master-candidates/ie-672-data-mining-2/) (Master, Spring 2024)
   * [Data Mining I](https://www.uni-mannheim.de/dws/teaching/course-details/courses-for-master-candidates/ie-500-data-mining/) (Master, Fall 2023)
 * ### Team Projects
-  * Aligning Embeddings for Biomedical Applications (Master, Spring 2025)
   * A Chatbot for Study Advice (Master, Fall 2023)
   * Developing a Python Library for News Recommenders (Master, Spring 2022)
-* ### Thesis Supervisor
+* ### Thesis Supervision
   * Diversified Scientific Research Recommendation (Master, Fall 2023)
   * A Comparative Analysis of Negative Sampling Techniques for News Recommenders (Bachelor, Fall 2023)
