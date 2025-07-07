@@ -13,7 +13,7 @@ I am a final-year PhD student at the [University of Mannheim](https://www.uni-ma
 
 Between Dec 2023 and Feb 2024, I was a visting researcher in the [WüNLP Group](https://www.informatik.uni-wuerzburg.de/nlp/) at the [University of Würzburg](https://www.uni-wuerzburg.de/). Previously, I completed my M.Sc. in Business Informatics at the University of Mannheim, where I worked as a research assistant in the Data and Web Science Group. 
 
-You can find more info on my [CV](https://andreeaiana.github.io/files/250611_CV_IANA.pdf).
+You can find more info on my [CV](https://andreeaiana.github.io/files/250707_CV_IANA.pdf).
 
 
 ## News
