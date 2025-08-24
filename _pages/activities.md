@@ -5,6 +5,10 @@ permalink: /activities/
 author_profile: true
 ---
 
+## Grant Awards
+--------------------------
+* **Open Science Grant 2025** - [Open Science Grant](https://www.uni-mannheim.de/en/open-science/grants), Germany. 6,500 EUR funded by the Open Science Office. 
+
 ## Community Service
 --------------------------
 * ### Chair
@@ -19,6 +23,7 @@ author_profile: true
   * Journals: Journal of Web Semantics, Information Systems Journal
 
 ## Professional Activities
+--------------------------
 * ### Presentations
   * 2025-04-09: [[Oral]](https://andreeaiana.github.io/files/09042025_long_ecir.pdf) NaSE @ ECIR 2025
   * 2024-11-13: [[Poster]](https://andreeaiana.github.io/files/13112014_findings_emnlp.pdf) MANNeR @ EMNLP 2024
@@ -34,20 +39,18 @@ author_profile: true
   * 2021-09-28: [[Oral]](https://andreeaiana.github.io/files/210928_long_jcdl.pdf) GraphConfRec @ JCDL 2021
   * 2019-09-10: [Oral] Conference Recommender System @ SEMANTiCS 2019
 
-
-* ### Projects
-  * [ReNewRS](https://www.uni-mannheim.de/dws/research/projects/renewrs/)
-
 ## Teaching
 -----------
 
-* ### Tutorials
-  * [Data Mining](https://www.uni-mannheim.de/dws/teaching/course-details/courses-for-master-candidates/ie-500-data-mining/) (Master, Fall 2024)
-  * [Data Mining II](https://www.uni-mannheim.de/dws/teaching/course-details/courses-for-master-candidates/ie-672-data-mining-2/) (Master, Spring 2024)
-  * [Data Mining I](https://www.uni-mannheim.de/dws/teaching/course-details/courses-for-master-candidates/ie-500-data-mining/) (Master, Fall 2023)
-* ### Team Projects
-  * A Chatbot for Study Advice (Master, Fall 2023)
-  * Developing a Python Library for News Recommenders (Master, Spring 2022)
+* ### Tutorials 
+  * [Winter semester 2024/2025]: Data Mining (Master)
+  * [Spring semester 2024]: Data Mining II (Master)
+  * [Winter semester 2023/2024]: Data Mining I (Master)
+
+* ### Team Projects 
+  * [Winter semester 2023/2024]: A Chatbot for Study Advice (Master)
+  * [Speing semester 2022]: Developing a Python Library for News Recommenders (Master)
+
 * ### Thesis Supervision
-  * Diversified Scientific Research Recommendation (Master, Fall 2023)
-  * A Comparative Analysis of Negative Sampling Techniques for News Recommenders (Bachelor, Fall 2023)
+  * [Winter semester 2023/2024]: Diversified Scientific Research Recommendation (Master)
+  * [Winter semester 2023/2024]: A Comparative Analysis of Negative Sampling Techniques for News Recommenders (Bachelor)
