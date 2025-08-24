@@ -21,6 +21,10 @@ You can find more info on my [CV](https://andreeaiana.github.io/files/250707_CV_
 <table class="twoColumnTable">
     <tbody>
         <tr>
+            <td class="left-column">August, 2025</td>
+            <td class="right-column">I have been awarded the <a href="https://www.uni-mannheim.de/en/open-science/grants">Open Science Grant</a> from the University of Mannheim for the SpaceBenchRAG project.</td>
+        </tr>
+        <tr>
             <td class="left-column">May, 2025</td>
             <td class="right-column">Our paper "Walk&Retrieve: Simple Yet Effective Zero-shot Retrieval-Augmented Generation via Knowledge Graph Walks" was accepted to IR-RAG 2025, in conjunction with SIGIR 2025!</td>
         </tr>
@@ -38,19 +42,15 @@ You can find more info on my [CV](https://andreeaiana.github.io/files/250707_CV_
         </tr>
         <tr>
             <td class="left-column">May, 2024</td>
-            <td class="right-column"> We released <a href="https://huggingface.co/datasets/aiana94/xMINDlarge">xMINDlarge</a> and <a href="https://huggingface.co/datasets/aiana94/xMINDsmall">xMINDsmall</a> now also on HuggingFace.</td>
-        </tr>
-        <tr>
-            <td class="left-column">May, 2024</td>
-            <td class="right-column">We released the multilingual <a href="https://huggingface.co/datasets/aiana94/polynews">PolyNews</a> and <a href="https://huggingface.co/datasets/aiana94/polynews-parallel">PolyNewsParallel</a> datasets on HuggingFace.</td>
+            <td class="right-column"> We released <a href="https://huggingface.co/datasets/aiana94/xMINDlarge">xMINDlarge</a> and <a href="https://huggingface.co/datasets/aiana94/xMINDsmall">xMINDsmall</a> now also on HuggingFace.
+                <p style="margin-top: 1em;">We released the multilingual <a href="https://huggingface.co/datasets/aiana94/polynews">PolyNews</a> and <a href="https://huggingface.co/datasets/aiana94/polynews-parallel">PolyNewsParallel</a> datasets on HuggingFace.</p>
+            </td>
         </tr>
          <tr>
             <td class="left-column">Mar, 2024</td>
-            <td class="right-column">Our paper "MIND Your Language: A Multilingual Dataset For Cross-lingual News Recommendation" was accepted to SIGIR 2024, in the Resource and Reproducibility Track!</td>
-        </tr>
-        <tr>
-            <td class="left-column">Mar, 2024</td>
-            <td class="right-column">I gave a <a href="https://andreeaiana.github.io/files/240314_mcds_academic_speed_dating.pdf">talk</a>  about my work on the <a href="https://github.com/andreeaiana/xMIND"><b>xMIND multingual news dataset</b></a> at the <a href="https://www.uni-mannheim.de/en/datascience/details/was-umfrage-methodik-und-data-science-von-einander-lernen-koennen/">MCDS Academic Speed Dating on Data Science</a>.</td>
+            <td class="right-column">Our paper "MIND Your Language: A Multilingual Dataset For Cross-lingual News Recommendation" was accepted to SIGIR 2024, in the Resource and Reproducibility Track!
+                <p style="margin-top: 1em;">I gave a <a href="https://andreeaiana.github.io/files/240314_mcds_academic_speed_dating.pdf">talk</a>  about my work on the <a href="https://github.com/andreeaiana/xMIND"><b>xMIND multingual news dataset</b></a> at the <a href="https://www.uni-mannheim.de/en/datascience/details/was-umfrage-methodik-und-data-science-von-einander-lernen-koennen/">MCDS Academic Speed Dating on Data Science</a>.</p>
+            </td>
         </tr>
         <tr>
             <td class="left-column">Dec, 2023</td>
