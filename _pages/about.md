@@ -21,7 +21,7 @@ You can find more info on my [CV](https://andreeaiana.github.io/files/250707_CV_
 <table class="twoColumnTable">
     <tbody>
         <tr>
-            <td class="left-column">August, 2025</td>
+            <td class="left-column">Aug, 2025</td>
             <td class="right-column">I have been awarded the <a href="https://www.uni-mannheim.de/en/open-science/grants">Open Science Grant</a> from the University of Mannheim for the SpaceBenchRAG project.</td>
         </tr>
         <tr>
