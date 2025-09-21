@@ -17,6 +17,12 @@ author_profile: true
 -------
 <table>
     <tr> 
+        <td><a href="https://dl.acm.org/doi/full/10.1145/3705328.3747997"><b>The 13th International Workshop on News Recommendation and Analytics (INRA 2025)</b></a><br><u>Andreea Iana</u>, Célina Treuillier, Vandana Yadav, Benjamin Kille, Andreas Lommatzsch, Özlem Özgöbek.
+        <br><i>Proceedings of the Nineteenth ACM Conference on Recommender Systems, pp. 1399-1403. 2025.</i><br>
+        <div class="paper_button"><b>EXTENDED ABSTRACT</b></div>&nbsp;<div class="conf_button"><b>RecSys</b></div>
+        </td>
+    </tr>
+    <tr> 
         <td><a href="https://arxiv.org/abs/2505.16849"><b>Walk&Retrieve: Simple Yet Effective Zero-shot Retrieval-Augmented Generation via Knowledge Graph Walks</b></a><br>Martin Böckling, Heiko Paulheim, <u>Andreea Iana</u><br>
         <i>Proceedings of Information Retrieval’s Role in RAG Systems (IR-RAG 2025) co-located with the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2025).</i><br>
         <div class="paper_button"><b>WORKSHOP</b></div>&nbsp;<div class="conf_button"><b>SIGIR</b></div>
