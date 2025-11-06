@@ -15,12 +15,12 @@ author_profile: true
   * Chair of [13th International Workshop on News Recommendation and Analytics](https://research.idi.ntnu.no/NewsTech/INRA/index.html)
 
 * ### PC member
-  * Conferences: ISWC 2024 (Research Track), ESWC 2024 (Resources Track)
+  * Conferences: ESWC 2026 (Resource Track), ECIR 2026 (Resource Track), RecSys 2025 (Late Breaking Results), SIGIR 2025 (Resource & Reproducibility Papers), ISWC 2024 (Research Track), ESWC 2024 (Resources Track), ESWC 2022 (Research Track)
   * Workshops: International Workshop on Knowledge Graphs for Online Discourse Analysis (BeyondFacts @ WWW 2023, 2024, 2025), Workshop on Natural Language Processing for Political Sciences (PoliticalNLP @ LREC 20222, @ LREC-COLING 2024), Deep Learning for Knowledge Graphs Workshop (DL4KG @ ISWC 2023)  
 
 * ### Reviewer
-  * Conferences: ARR (ACL, EMNLP), SIGIR 2025 (Resource & Reproducibility Papers), RecSys 2025 (Late Breaking Results)
-  * Journals: Journal of Web Semantics, Information Systems Journal
+  * Conferences: ARR (ACL, EMNLP)
+  * Journals:  International Journal of Human–Computer Interaction, Transactions on Intelligent Systems and Technology, Journal of Web Semantics, Information Systems Journal
 
 ## Professional Activities
 --------------------------
@@ -48,6 +48,7 @@ author_profile: true
   * [Winter semester 2023/2024]: Data Mining I (Master)
 
 * ### Team Projects 
+  * [Winter semester 2025/2026]: Aligning Language Models and Knowledge Graphs for Biomedical Applications
   * [Winter semester 2023/2024]: A Chatbot for Study Advice (Master)
   * [Speing semester 2022]: Developing a Python Library for News Recommenders (Master)
 
