@@ -21,6 +21,10 @@ You can find more info on my [CV](https://andreeaiana.github.io/files/2511106_CV
 <table class="twoColumnTable">
     <tbody>
         <tr>
+            <td class="left-column">Nov, 2025</td>
+            <td class="right-column">Our paper "Multilinguality in MIND: Advancing Cross-lingual News Recommendation with a Multilingual Dataset" was accepted for publication in ACM Transactions on Recommender Systems!</td>
+        </tr>
+        <tr>
             <td class="left-column">Aug, 2025</td>
             <td class="right-column">I have been awarded the <a href="https://www.uni-mannheim.de/en/open-science/grants">Open Science Grant</a> from the University of Mannheim for the SpaceBenchRAG project.</td>
         </tr>
@@ -40,7 +44,7 @@ You can find more info on my [CV](https://andreeaiana.github.io/files/2511106_CV
             <td class="left-column">Sep, 2024</td>
             <td class="right-column">Our paper "Train Once, Use Flexibly: A Modular Framework for Multi-Aspect Neural News Recommendation" was accepted to Findings of EMNLP 2024!</td>
         </tr>
-        <tr>
+        <!-- <tr>
             <td class="left-column">May, 2024</td>
             <td class="right-column"> We released <a href="https://huggingface.co/datasets/aiana94/xMINDlarge">xMINDlarge</a> and <a href="https://huggingface.co/datasets/aiana94/xMINDsmall">xMINDsmall</a> now also on HuggingFace.
                 <p style="margin-top: 1em;">We released the multilingual <a href="https://huggingface.co/datasets/aiana94/polynews">PolyNews</a> and <a href="https://huggingface.co/datasets/aiana94/polynews-parallel">PolyNewsParallel</a> datasets on HuggingFace.</p>
@@ -67,7 +71,7 @@ You can find more info on my [CV](https://andreeaiana.github.io/files/2511106_CV
         <tr>
             <td class="left-column">Apr, 2023</td>
             <td class="right-column">Our paper "Simplifying Content-Based Neural News Recommendation: On User Modeling and Training Objectives" was accepted to SIGIR 2023!</td>
-        </tr>
+        </tr> -->
     </tbody>
 </table>
 

@@ -17,6 +17,12 @@ author_profile: true
 -------
 <table>
     <tr> 
+        <td><a href="https://dl.acm.org/doi/10.1145/3777415"><b>Multilinguality in MIND: Advancing Cross-lingual News Recommendation with a Multilingual Dataset</b></a><br><u>Andreea Iana</u>, Goran Glavaš, Heiko Paulheim.
+        <br><i>ACM Transactions on Recommender Systems (2025)</i><br>
+        <div class="paper_button"><b>ARTICLE</b></div>&nbsp;<div class="conf_button"><b>ACM TORS</b></div>
+        </td>
+    </tr>
+    <tr> 
         <td><a href="https://dl.acm.org/doi/full/10.1145/3705328.3747997"><b>The 13th International Workshop on News Recommendation and Analytics (INRA 2025)</b></a><br><u>Andreea Iana</u>, Célina Treuillier, Vandana Yadav, Benjamin Kille, Andreas Lommatzsch, Özlem Özgöbek.
         <br><i>Proceedings of the Nineteenth ACM Conference on Recommender Systems, pp. 1399-1403. 2025.</i><br>
         <div class="paper_button"><b>EXTENDED ABSTRACT</b></div>&nbsp;<div class="conf_button"><b>RecSys</b></div>
