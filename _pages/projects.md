@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-## SpaceBenchRAG: A Multimodal, Multilingual Benchmark for KG-grounded RAG over Diverse Geographies
+## SpatialBenchRAG: A Multimodal, Multilingual Benchmark for KG-grounded RAG over Diverse Geographies
 
 The project SpatialBenchRAG introduces the first **multimodal, multilingual benchmark** for **evaluating Retrieval-Augmented Generation (RAG) systems grounded in spatial Knowledge Graphs (KGs)**. Addressing the lack of standardized resources for spatial reasoning, the benchmark combines diverse geographic datasets, including OpenStreetMap and Wikidata, to support realistic, context-aware evaluation across tasks such as spatial question answering, multi-hop reasoning, and visual queries. By enabling transparent and reproducible research, this initiative aims to accelerate the development of geographically grounded AI systems for applications like disaster response, geo-aware assistants, and spatial fact-checking.
 
