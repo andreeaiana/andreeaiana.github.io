@@ -12,11 +12,12 @@ author_profile: true
 ## Community Service
 --------------------------
 * ### Chair
-  * Chair of [13th International Workshop on News Recommendation and Analytics](https://research.idi.ntnu.no/NewsTech/INRA/index.html)
+  * Chair of [14th International Workshop on News Recommendation and Analytics](https://research.idi.ntnu.no/NewsTech/INRA/index.html) (INRA @ UMAP 2026)
+  * Chair of [13th International Workshop on News Recommendation and Analytics](https://research.idi.ntnu.no/NewsTech/INRA/index.html) (INRA @ RecSys 2025)
 
 * ### PC member
-  * Conferences: ESWC 2026 (Resource Track), ECIR 2026 (Resource Track), RecSys 2025 (Late Breaking Results), SIGIR 2025 (Resource & Reproducibility Papers), ISWC 2024 (Research Track), ESWC 2024 (Resources Track), ESWC 2022 (Research Track)
-  * Workshops: International Workshop on Knowledge Graphs for Online Discourse Analysis (BeyondFacts @ WWW 2023, 2024, 2025), Workshop on Natural Language Processing for Political Sciences (PoliticalNLP @ LREC 20222, @ LREC-COLING 2024), Deep Learning for Knowledge Graphs Workshop (DL4KG @ ISWC 2023)  
+  * Conferences: SIGIR 2026 (Resources Papers Track), SIGIR 2026 (Reproducibility Track) ESWC 2026 (Resource Track), ECIR 2026 (Resource Track), RecSys 2025 (Late Breaking Results), SIGIR 2025 (Resource & Reproducibility Papers), ISWC 2024 (Research Track), ESWC 2024 (Resources Track), ESWC 2022 (Research Track)
+  * Workshops: International Workshop on Knowledge Graphs for Online Discourse Analysis (BeyondFacts @ WWW 2023, 2024, 2025, 2026), Workshop on Natural Language Processing for Political Sciences (PoliticalNLP @ LREC 20222, @ LREC-COLING 2024), Deep Learning for Knowledge Graphs Workshop (DL4KG @ ISWC 2023)  
 
 * ### Reviewer
   * Conferences: ARR (ACL, EMNLP)
