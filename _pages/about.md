@@ -11,7 +11,7 @@ redirect_from:
 
 I am a postdoctoral researcher in the [Data and Web Science Group](https://www.uni-mannheim.de/dws/) at the University of Mannheim. I hold a PhD in Recommender Systems from the [University of Mannheim](https://www.uni-mannheim.de/dws/research/focus-groups/web-data-mining-prof-paulheim/), where I was advised advised by Prof. [Heiko Paulheim](https://www.uni-mannheim.de/dws/people/professors/prof-dr-heiko-paulheim/) (University of Mannheim) and Prof. [Goran Glavaš](https://sites.google.com/view/goranglavas) (University of Würzburg). During my PhD, I was a visting researcher in the [WüNLP Group](https://www.informatik.uni-wuerzburg.de/nlp/) at the [University of Würzburg](https://www.uni-wuerzburg.de/). Before that, I completed my M.Sc. in Business Informatics at the University of Mannheim, and my B.Sc. in Liberal Arts and Sciences from the University College Maastricht, in the Netherlands.
 
-I am interested in advancing responsible and inclusive retrieval and recommendation technology, with a particular focus on multilinguality, cross-lingual IR, and investigating and mitigating algorithmic bias.
+I work on advancing responsible and inclusive AI for information access, with a particular focus on multilinguality, cross-lingual IR, and investigating and mitigating algorithmic bias in retrieval and recommendation systems.
 
 You can find more info on my [CV](https://andreeaiana.github.io/files/251115_CV_IANA.pdf).
 
