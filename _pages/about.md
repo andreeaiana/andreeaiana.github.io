@@ -20,6 +20,10 @@ You can find more info on my [CV](https://andreeaiana.github.io/files/251115_CV_
 <table class="twoColumnTable">
     <tbody>
         <tr>
+            <td class="left-column">Jul, 2026</td>
+            <td class="right-column">My interview on the <a href="https://dataskeptic.com/">Data Skeptic</a> podcast, where I discuss <i>responsible AI for news recommendation</i>, is now out! <a href="https://dataskeptic.com/blog/episodes/2026/news-recommendations">Listen here</a>.</td>
+        </tr>
+        <tr>
             <td class="left-column">Mar, 2026</td>
             <td class="right-column">I successfully defended my PhD thesis <i>"Multifaceted Neural News Recommendation: Common Components, Bias Mitigation, and Multilinguality"</i> and was awarded my PhD with <b>summa cum laude</b>.</td>
         </tr>

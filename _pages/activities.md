@@ -40,20 +40,23 @@ author_profile: true
   * 2021-09-28: [[Oral]](https://andreeaiana.github.io/files/210928_long_jcdl.pdf) GraphConfRec @ JCDL 2021
   * 2019-09-10: [Oral] Conference Recommender System @ SEMANTiCS 2019
 
+* ### Interviews
+  * [[Podcast]](https://dataskeptic.com/blog/episodes/2026/news-recommendations) News Recommendations @ Data Skeptic
+
 ## Teaching
 -----------
 
 * ### Tutorials 
-  * [Winter semester 2024/2025]: Data Mining (Master)
-  * [Spring semester 2024]: Data Mining II (Master)
-  * [Winter semester 2023/2024]: Data Mining I (Master)
+  * **Winter semester 2024/2025**: Data Mining (Master)
+  * **Spring semester 2024**: Data Mining II (Master)
+  * **Winter semester 2023/2024**: Data Mining I (Master)
 
 * ### Team Projects 
-  * [Spring semester 2026]: Evaluating Diversity-Aware Retrieval for RAG (Master)
-  * [Winter semester 2025/2026]: Aligning Language Models and Knowledge Graphs for Biomedical Applications
-  * [Winter semester 2023/2024]: A Chatbot for Study Advice (Master)
-  * [Spring semester 2022]: Developing a Python Library for News Recommenders (Master)
+  * **Spring semester 2026**: Evaluating Diversity-Aware Retrieval for RAG (Master)
+  * **Winter semester 2025/2026**: Aligning Language Models and Knowledge Graphs for Biomedical Applications (Master)
+  * **Winter semester 2023/2024**: A Chatbot for Study Advice (Master)
+  * **Spring semester 2022**: Developing a Python Library for News Recommenders (Master)
 
 * ### Thesis Supervision
-  * [Winter semester 2023/2024]: Diversified Scientific Research Recommendation (Master)
-  * [Winter semester 2023/2024]: A Comparative Analysis of Negative Sampling Techniques for News Recommenders (Bachelor)
+  * **Winter semester 2023/2024**: Diversified Scientific Research Recommendation (Master)
+  * **Winter semester 2023/2024**: A Comparative Analysis of Negative Sampling Techniques for News Recommenders (Bachelor)
