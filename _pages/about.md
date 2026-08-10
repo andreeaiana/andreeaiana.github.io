@@ -13,7 +13,7 @@ I am a postdoctoral researcher in the [Data and Web Science Group](https://www.u
 
 I work on advancing responsible and inclusive AI for information access, with a particular focus on multilinguality, cross-lingual IR, and investigating and mitigating algorithmic bias in retrieval and recommendation systems.
 
-You can find more info on my [CV](https://andreeaiana.github.io/files/251115_CV_IANA.pdf).
+You can find more info on my [CV](https://andreeaiana.github.io/files/260810_CV_IANA.pdf).
 
 ## News
 

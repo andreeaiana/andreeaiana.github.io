@@ -16,12 +16,12 @@ author_profile: true
   * Chair of [13th International Workshop on News Recommendation and Analytics](https://research.idi.ntnu.no/NewsTech/INRA/index.html) (INRA @ RecSys 2025)
 
 * ### PC member
-  * Conferences: SIGIR 2026 (Resources Papers Track), SIGIR 2026 (Reproducibility Track) ESWC 2026 (Resource Track), ECIR 2026 (Resource Track), RecSys 2025 (Late Breaking Results), SIGIR 2025 (Resource & Reproducibility Papers), ISWC 2024 (Research Track), ESWC 2024 (Resources Track), ESWC 2022 (Research Track)
-  * Workshops: International Workshop on Knowledge Graphs for Online Discourse Analysis (BeyondFacts @ WWW 2023, 2024, 2025, 2026), Workshop on Natural Language Processing for Political Sciences (PoliticalNLP @ LREC 20222, @ LREC-COLING 2024), Deep Learning for Knowledge Graphs Workshop (DL4KG @ ISWC 2022, 2023)  
+  * Conferences: RecSys 2026 (Main Track), CIKM 2026 (Full Research Track), CIKM 2026 (Resources Track), SIGIR 2026 (Resources Papers Track), SIGIR 2026 (Reproducibility Track), ESWC 2026 (Resource Track), ECIR 2026 (Resource Track), RecSys 2025 (Late Breaking Results), SIGIR 2025 (Resource & Reproducibility Papers), ISWC 2024 (Research Track), ESWC 2024 (Resources Track), ESWC 2022 (Research Track)
+  * Workshops: International Workshop on Knowledge Graphs and Neurosymbolic AI (KG-NeSY @ ISWC 2026), International Workshop on Knowledge Graphs for Online Discourse Analysis (BeyondFacts @ WWW 2023, 2024, 2025, 2026), Workshop on Natural Language Processing for Political Sciences (PoliticalNLP @ LREC 20222, @ LREC-COLING 2024), Deep Learning for Knowledge Graphs Workshop (DL4KG @ ISWC 2022, 2023)  
 
 * ### Reviewer
-  * Conferences: ARR (ACL, EMNLP)
-  * Journals:  International Journal of Human–Computer Interaction, Transactions on Intelligent Systems and Technology, Journal of Web Semantics, Information Systems Journal
+  * Conferences: ARR (ACL, EMNLP, EACL)
+  * Journals:  International Journal of Human–Computer Interaction, ACM Transactions on Intelligent Systems and Technology, Journal of Web Semantics, Information Systems Journal
 
 ## Professional Activities
 --------------------------
@@ -47,16 +47,17 @@ author_profile: true
 -----------
 
 * ### Tutorials 
-  * **Winter semester 2024/2025**: Data Mining (Master)
-  * **Spring semester 2024**: Data Mining II (Master)
-  * **Winter semester 2023/2024**: Data Mining I (Master)
+  * Data Mining (Master, fall 2024 & spring 2025)
+  * Data Mining II (Master, spring 2024)
+  * Data Mining I (Master, fall 2023)
 
 * ### Team Projects 
-  * **Spring semester 2026**: Evaluating Diversity-Aware Retrieval for RAG (Master)
-  * **Winter semester 2025/2026**: Aligning Language Models and Knowledge Graphs for Biomedical Applications (Master)
-  * **Winter semester 2023/2024**: A Chatbot for Study Advice (Master)
-  * **Spring semester 2022**: Developing a Python Library for News Recommenders (Master)
+  * "Evaluating Diversity-Aware Retrieval for RAG" (Master, spring 2026)
+  * "Aligning Language Models and Knowledge Graphs for Biomedical Applications" (Master, fall 2025)
+  * "A Chatbot for Study Advice" (Master, fall 2023)
+  * "Developing a Python Library for News Recommenders" (Master, spring 2022)
 
 * ### Thesis Supervision
-  * **Winter semester 2023/2024**: Diversified Scientific Research Recommendation (Master)
-  * **Winter semester 2023/2024**: A Comparative Analysis of Negative Sampling Techniques for News Recommenders (Bachelor)
+  * "Which Documents Do LLMs Trust? A Counterfactual Audit of Source and Authority Bias in Retrieval-Augmented Generation" (Master, fall 2026)
+  * "Diversified Scientific Research Recommendation" (Master, fall 2023)
+  * "A Comparative Analysis of Negative Sampling Techniques for News Recommenders" (Bachelor, fall 2023)
