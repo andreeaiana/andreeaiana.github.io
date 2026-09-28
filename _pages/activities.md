@@ -47,9 +47,12 @@ author_profile: true
 -----------
 
 * ### Tutorials 
-  * Data Mining (Master, fall 2024 & spring 2025)
+  * Data Mining (Master, fall 2024, spring 2025, fall 2026)
   * Data Mining II (Master, spring 2024)
   * Data Mining I (Master, fall 2023)
+
+* ### Seminars
+  * Fairness in Recommendation and Ranking (Master & Bachelor, fall 2026)
 
 * ### Team Projects 
   * "Evaluating Diversity-Aware Retrieval for RAG" (Master, spring 2026)

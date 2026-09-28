@@ -17,6 +17,12 @@ author_profile: true
 -------
 <table>
     <tr> 
+        <td><a href="https://arxiv.org/abs/2608.23214"><b>Aligning Biomedical Texts and Knowledge Graphs: A Systematic Comparison of Lightweight Alignment Strategies</b></a><br>Artem Bisliouk, Elizaveta Nosova, Heiko Paulheim, <u>Andreea Iana</u>, Rita T Sousa.
+        <br><i>Third Workshop on Knowledge Graphs and Neurosymbolic AI (KG-NeSy 2026), in ISWC 2026 Workshops Joint Proceedings. 2026.</i><br>
+        <div class="paper_button"><b>WORKSHOP</b></div>&nbsp;<div class="conf_button"><b>ISWC</b></div>
+        </td>
+    </tr>
+    <tr> 
         <td><a href="https://dl.acm.org/doi/10.1145/3774935.3802529"><b>The 14th International Workshop on News Recommendation and Analytics (INRA 2026)</b></a><br>Célina Treuillier, <u>Andreea Iana</u>, Vandana Yadav, Benjamin Kille, Andreas Lommatzsch, Özlem Özgöbek.
         <br><i>Proceedings of the 34th ACM Conference on User Modeling, Adaptation and Personalization, pp. 694–697. 2026.</i><br>
         <div class="paper_button"><b>EXTENDED ABSTRACT</b></div>&nbsp;<div class="conf_button"><b>UMAP</b></div>
